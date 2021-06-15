@@ -40,6 +40,11 @@ If you're not inclined to make PRs you can tweet me at [@fotiecodes](https://twi
 ## <a name="R"> </a>R
 ## <a name="S"> </a>S
 ## <a name="T"> </a>T
+
+* [made-in-tanzania](https://github.com/acekyd/made-in-tanzania) - A curation of awesome tools and projects built by Tanzanians. 
+  - url: <a href="https://tanzania-developers-community.github.io/made-in-tanzania/">https://tanzania-developers-community.github.io/made-in-tanzania/</a>
+  - **Repo By [@Tanzania-Developers-Community](https://github.com/Tanzania-Developers-Community)**
+
 ## <a name="U"> </a>U
 ## <a name="V"> </a>V
 ## <a name="W"> </a>W
