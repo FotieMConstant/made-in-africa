@@ -25,6 +25,10 @@ If you're not inclined to make PRs you can tweet me at [@fotiecodes](https://twi
 ## <a name="I"> </a>I
 ## <a name="J"> </a>J
 ## <a name="K"> </a>K
+
+* [made-in-kenya](https://github.com/MadeInKenya/madeinkenya.github.io/) - A collection of awesome tools built by Kenyans that can be used by anybody anywhere in the world. **Repo By [@MadeInKenya](https://github.com/MadeInKenya/)**
+  - URL: [madeinkenya.github.io](http://madeinkenya.github.io/)
+
 ## <a name="L"> </a>L
 ## <a name="M"> </a>M
 ## <a name="N"> </a>N
