@@ -15,7 +15,7 @@ If you're not inclined to make PRs you can tweet me at [@fotiecodes](https://twi
 ## <a name="B"> </a>B
 ## <a name="C"> </a>C
 
-* [made-in-cameroon](https://github.com/roc41d/made-in-cameroon) - A curated list a awesome tools and projects built by Cameroonian developers. **Repo By [@rocardho](https://twitter.com/rocardho)**
+* [made-in-cameroon](https://github.com/roc41d/made-in-cameroon) - A curated list a awesome tools and projects built by Cameroonian developers. **Repo By [@_rocard](https://twitter.com/_rocard)**
 
 * [made-in-codedivoire](https://github.com/codedivoire/made-in-ci) - A curated list a awesome tools and projects built by Codedivoire developers. **Repo By [@codedivoire](https://github.com/codedivoire)**
 
